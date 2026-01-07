@@ -4,6 +4,10 @@ A modern Spotify-style music streaming UI built with React and Vite. The app fea
 
 ---
 
+## 🔗 Live Project
+
+👉 Click here to view: https://spotify-app-amber-rho.vercel.app
+
 ## 🚀 Features
 
 - 🎧 Spotify-style dashboard UI
